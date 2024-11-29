@@ -33,7 +33,7 @@ mypy = "^0.950"
 flake8 = "^4.0.1"
 pylint = "^2.13.9"
 pytest = "^5.2"
-lxml = "^4.8.0"
+lxml = "^4.9.1"
 
 [tool.poetry.scripts]
 idm = "image_depth_masking.main:main"
